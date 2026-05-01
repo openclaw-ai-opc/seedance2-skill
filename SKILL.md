@@ -1,5 +1,5 @@
 ---
-name: seedance-video
+name: seedance2-skill
 description: Seedance 2.0 AI视频生成技能。通过DZWL AI API根据文本提示词生成视频。触发场景：用户要求"生成视频"、"AI视频"、"文生视频"、"视频创作"、"seedance"等。支持自然语言描述生成视频，自动轮询任务状态直到视频生成完成并返回视频URL。
 ---
 
